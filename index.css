@@ -92,10 +92,10 @@ body {
 @media only screen and (max-width: 500px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 20vw, 33vw, 40vw, 25vw;
     background-position: 0% 0%, 100% 5%, 110% 95%, 3% 95%;
@@ -105,10 +105,10 @@ body {
 @media only screen and (min-width: 500px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 20vw, 30vw, 40vw, 25vw;
     background-position: 5% 5%, 97% 5%, 110% 95%, 0% 95%;
@@ -117,10 +117,10 @@ body {
 @media only screen and (min-width: 600px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 17vw, 28vw, 35vw, 20vw;
     background-position: 5% 5%, 100% 7%, 105% 95%, 5% 95%;
@@ -130,10 +130,10 @@ body {
 @media only screen and (min-width: 800px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 13vw, 22vw, 28vw, 13vw;
     background-position: 7% 10%, 95% 13%, 105% 97%, 6% 93%;
@@ -145,10 +145,10 @@ body {
 @media only screen and (min-width: 1000px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 12vw, 20vw, 25vw, 13vw;
     background-position: 10% 5%, 97% 20%, 97% 96%, 5% 93%;
@@ -161,10 +161,10 @@ body {
 @media only screen and (min-width: 1200px) {
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 11vw, 20vw, 25vw, 13vw;
     background-position: 15% 5%, 95% 10%, 95% 97%, 5% 95%;
@@ -180,10 +180,10 @@ body {
   }
   .hero {
     background-image:
-        url("/assets/iPhone_11.png"),
-        url("/assets/NES_Console.png"),
-        url("/assets/ps4.png"),
-        url("/assets/Beats.png");
+        url("assets/iPhone_11.png"),
+        url("assets/NES_Console.png"),
+        url("assets/ps4.png"),
+        url("assets/Beats.png");
 
     background-size: 150px, 250px, 300px, 175px;
     background-position: 15% 5%, 95% 10%, 93% 92%, 5% 95%;
